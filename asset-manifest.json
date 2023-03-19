@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursor-hw-login-registration-form/static/css/main.4d9f7451.css",
+    "main.js": "/cursor-hw-login-registration-form/static/js/main.a3cb7493.js",
+    "static/js/787.8cb076a6.chunk.js": "/cursor-hw-login-registration-form/static/js/787.8cb076a6.chunk.js",
+    "index.html": "/cursor-hw-login-registration-form/index.html",
+    "main.4d9f7451.css.map": "/cursor-hw-login-registration-form/static/css/main.4d9f7451.css.map",
+    "main.a3cb7493.js.map": "/cursor-hw-login-registration-form/static/js/main.a3cb7493.js.map",
+    "787.8cb076a6.chunk.js.map": "/cursor-hw-login-registration-form/static/js/787.8cb076a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d9f7451.css",
+    "static/js/main.a3cb7493.js"
+  ]
+}
